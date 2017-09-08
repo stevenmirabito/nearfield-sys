@@ -1,0 +1,8 @@
+[package]
+name = "nearfield-sys"
+version = "0.1.0"
+authors = ["Steven Mirabito <steven@stevenmirabito.com>"]
+build = "build.rs"
+
+[build-dependencies]
+bindgen = "0.30.0"
